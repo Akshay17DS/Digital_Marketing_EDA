@@ -61,11 +61,41 @@ Female(Retention)- Referral
 For awareness and consideration best campaign channel is refrerral, For conversion PPC is the best campaign channel followed by referral and for retention also best channel is Referral.
 
 
-## 4. DETERMINE THE BEST CAMPAIGN CHANNEL FOR EACH OUTCOME
+## 4. FOR EACH OUTCOME OF MARKETING, WHICH CAMPAIGN CHANNEL IS BEST AS PER GENDER
 
-![7](https://github.com/user-attachments/assets/c60a705c-946b-429b-975b-88bcceb692ad)
+![9](https://github.com/user-attachments/assets/e5a99f3a-d6db-41de-8d56-f17443bf1adf)
 
 ### CONCLUSION
+
+-For ClickThroughRate:
+
+Female: PPC campaign performs best.
+
+Male: Social Media campaign performs best.
+
+-For ConversionRate:
+
+Female: Social Media campaign performs best.
+
+Male: Social Media campaign performs best.
+
+-For WebsiteVisits:
+
+Female: Email campaign attracts more visits.
+
+Male: Social Media campaign attracts more visits.
+
+-For PagesPerVisit:
+
+Female: PPC campaign results in more pages per visit.
+
+Male: Social Media campaign results in more pages per visit.
+
+-For TimeOnSite:
+
+Female: Social Media campaign leads to longer time on site.
+
+Male: PPC campaign leads to longer time on site.
 
 
 
