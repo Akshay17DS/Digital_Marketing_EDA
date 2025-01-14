@@ -1,4 +1,4 @@
-# Digital Marketing EDA
+# Digital Marketing Campaign Performance Analysis
 
 ## Project Overview:
 The Digital Marketing dataset contains information about 8000 customers and their interactions with various digital marketing campaigns. It provides insights into customer demographics, marketing channels, campaign performance, and conversion metrics. The dataset is suitable for exploring customer behavior, analyzing campaign effectiveness, and building predictive models for marketing strategies.
